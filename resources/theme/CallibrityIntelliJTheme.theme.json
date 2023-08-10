@@ -1,13 +1,27 @@
 {
   "name": "Callibrity-IntelliJ-Theme",
-  "author": "YourCompany",
+  "author": "Callibrity",
   "dark": true,
 
   "colors": {
-    "primaryRed": "#821010"
+    "baseBlue": "#1d2542",
+    "baseGreen": "#25582c",
+    "baseOrange": "#d65b1e",
+    "activeOrange": "#f6921e",
+    "textForeground": "#f9f1d2"
   },
 
   "ui": {
-    "Button.background": "primaryRed"
+    "*": {
+      "background": "baseBlue",
+      "foreground": "textForeground",
+      "selectionBackground": "baseGreen",
+      "hoverBackground": "baseOrange",
+      "pressedBackground": "baseOrange",
+      "inactiveBackground": "baseOrange",
+      "underlineColor": "baseOrange"
+    },
+    "ToolWindow.Button.selectedBackground": "activeOrange",
+    "Popup.borderColor": "activeOrange"
   }
 }
