@@ -1,0 +1,29 @@
+<scheme name="Callibrity IntelliJ Theme">
+    <colors>
+        <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="423162" />
+        <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="3e3162" />
+        <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="2d2240" />
+        <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="" />
+        <option name="ScrollBar.Mac.Transparent.thumbColor" value="" />
+        <option name="ScrollBar.Mac.Transparent.trackColor" value="" />
+        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="423162" />
+        <option name="ScrollBar.Mac.hoverThumbColor" value="3e3162" />
+        <option name="ScrollBar.Mac.hoverTrackColor" value="" />
+        <option name="ScrollBar.Mac.thumbBorderColor" value="322141" />
+        <option name="ScrollBar.Mac.thumbColor" value="272040" />
+        <option name="ScrollBar.Mac.trackColor" value="" />
+        <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="423162" />
+        <option name="ScrollBar.Transparent.hoverThumbColor" value="3e3162" />
+        <option name="ScrollBar.Transparent.hoverTrackColor" value="2d2240" />
+        <option name="ScrollBar.Transparent.thumbBorderColor" value="322141" />
+        <option name="ScrollBar.Transparent.thumbColor" value="272040" />
+        <option name="ScrollBar.Transparent.trackColor" value="" />
+        <option name="ScrollBar.background" value="211632" />
+        <option name="ScrollBar.hoverThumbBorderColor" value="423162" />
+        <option name="ScrollBar.hoverThumbColor" value="3e3162" />
+        <option name="ScrollBar.hoverTrackColor" value="" />
+        <option name="ScrollBar.thumbBorderColor" value="322141" />
+        <option name="ScrollBar.thumbColor" value="272040" />
+        <option name="ScrollBar.trackColor" value="" />
+    </colors>
+</scheme>

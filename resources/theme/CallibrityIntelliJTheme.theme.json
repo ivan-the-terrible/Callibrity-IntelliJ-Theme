@@ -1,6 +1,7 @@
 {
   "name": "Callibrity-IntelliJ-Theme",
   "author": "Callibrity",
+  "editorScheme": "/theme/CallibrityIntelliJTheme.xml",
   "dark": true,
 
   "colors": {
@@ -20,6 +21,25 @@
       "pressedBackground": "baseOrange",
       "inactiveBackground": "baseOrange",
       "underlineColor": "baseOrange"
+    },
+    "ScrollBar" : {
+      "background" : "#211632ff",
+      "hoverThumbColor": "activeOrange",
+      "thumb": "#2b2040ff",
+      "thumbColor": "baseGreen",
+      "track": "#28233eff",
+      "Transparent": {
+        "thumbColor": "baseGreen",
+        "hoverThumbColor": "activeOrange"
+      },
+      "Mac" : {
+        "Transparent": {
+          "thumbColor": "baseGreen",
+          "hoverThumbColor": "activeOrange"
+        },
+        "hoverThumbColor": "activeOrange",
+        "thumbColor": "baseGreen"
+      }
     },
     "ToolWindow.Button.selectedBackground": "activeOrange",
     "Popup.borderColor": "activeOrange"
