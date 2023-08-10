@@ -1,10 +1,80 @@
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M32.0845 7.94025V4H24.0203V7.9896H16.029V4H7.91553V7.94025H4V36H16.0044V32.0045C16.0058 30.9457 16.4274 29.9308 17.1766 29.1826C17.9258 28.4345 18.9412 28.0143 20 28.0143C21.0588 28.0143 22.0743 28.4345 22.8234 29.1826C23.5726 29.9308 23.9942 30.9457 23.9956 32.0045V36H36V7.94025H32.0845Z" fill="url(#paint0_linear)"/>
-    <defs>
-        <linearGradient id="paint0_linear" x1="2.94192" y1="4.89955" x2="37.7772" y2="39.7345" gradientUnits="userSpaceOnUse">
-            <stop offset="0.15937" stop-color="#3BEA62"/>
-            <stop offset="0.5404" stop-color="#3C99CC"/>
-            <stop offset="0.93739" stop-color="#6B57FF"/>
-        </linearGradient>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+        width="214.07779mm"
+        height="250.13179mm"
+        viewBox="0 0 214.07779 250.13179"
+        version="1.1"
+        id="svg5107"
+        inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+        sodipodi:docname="Callibrity_Logo.svg"
+        xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+        xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:svg="http://www.w3.org/2000/svg">
+    <sodipodi:namedview
+            id="namedview5109"
+            pagecolor="#ffffff"
+            bordercolor="#000000"
+            borderopacity="0.25"
+            inkscape:showpageshadow="2"
+            inkscape:pageopacity="0.0"
+            inkscape:pagecheckerboard="0"
+            inkscape:deskcolor="#d1d1d1"
+            inkscape:document-units="mm"
+            showgrid="false"
+            inkscape:zoom="0.2102413"
+            inkscape:cx="297.27746"
+            inkscape:cy="563.63806"
+            inkscape:window-width="1920"
+            inkscape:window-height="1111"
+            inkscape:window-x="-9"
+            inkscape:window-y="-9"
+            inkscape:window-maximized="1"
+            inkscape:current-layer="layer1" />
+    <defs
+            id="defs5104">
+        <clipPath
+                clipPathUnits="userSpaceOnUse"
+                id="clipPath4362">
+            <path
+                    d="M 0,1000 H 1000 V 0 H 0 Z"
+                    id="path4360" />
+        </clipPath>
     </defs>
+    <g
+            inkscape:label="Layer 1"
+            inkscape:groupmode="layer"
+            id="layer1">
+        <g
+                id="g4358"
+                clip-path="url(#clipPath4362)"
+                transform="matrix(0.35277777,0,0,-0.35277777,-69.350007,301.45467)">
+            <g
+                    id="g4364"
+                    transform="translate(666.0049,751.9736)">
+                <path
+                        d="m 0,0 c -127.445,-25.215 -223.851,-137.817 -223.851,-272.55 0,-113.45 68.587,-211.991 167.335,-254.916 -68.297,59.227 -111.601,146.511 -111.601,244.009 0,122.258 67.952,228.598 168.117,283.457"
+                        style="fill:#f6921e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                        id="path4366" />
+            </g>
+            <g
+                    id="g4368"
+                    transform="translate(354.5977,326.1602)">
+                <path
+                        d="m 0,0 c -29.654,48.144 -46.794,104.818 -46.794,165.511 0,60.691 17.139,117.364 46.79,165.507 58.056,103.043 168.465,172.83 294.929,172.83 12.217,0 24.385,-0.8 36.48,-2.113 -41.589,17.135 -87.131,26.622 -134.902,26.622 -195.795,0 -354.518,-158.722 -354.518,-354.517 0,-195.795 158.723,-354.518 354.518,-354.518 26.534,0 52.331,3.058 77.198,8.589 C 156.185,-164.773 54.781,-97.227 0,0"
+                        style="fill:#00adee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                        id="path4370" />
+            </g>
+            <g
+                    id="g4372"
+                    transform="translate(419.8984,479.4238)">
+                <path
+                        d="m 0,0 c 0,165.753 134.369,300.122 300.122,300.122 28.94,0 56.918,-4.108 83.397,-11.753 -45.545,25.44 -98.021,39.956 -153.895,39.956 -174.565,0 -316.078,-141.513 -316.078,-316.078 0,-174.565 141.513,-316.078 316.078,-316.078 17.731,0 35.114,1.484 52.05,4.291 C 124.516,-290.007 0,-159.556 0,0"
+                        style="fill:#39b449;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                        id="path4374" />
+            </g>
+        </g>
+    </g>
 </svg>
